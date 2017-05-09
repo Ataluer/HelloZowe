@@ -1,0 +1,135 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "85909B8C14DC51859FFE18436783EBA7F98F5475",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "85909B8C14DC51859FFE18436783EBA7F98F5475" : 9223372036854775807,
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : 9223372036854775807,
+    "D4199CF4A45E212E54A4CEE7E34326E0BC446862" : 9223372036854775807,
+    "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : 9223372036854775807,
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : 9223372036854775807,
+    "4C40C860B4786749914FAE6F65C7DE13296994FB" : 9223372036854775807,
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : 9223372036854775807,
+    "1308E24804F967D0BFAEC5294D55BE2BE7D89573" : 9223372036854775807,
+    "900D198C3FB851E8F8E01B008846A319DD357A70" : 9223372036854775807,
+    "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F" : 9223372036854775807,
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : 9223372036854775807,
+    "1E341D92E29B00380C7F10E3866962C9D13CE7F8" : 9223372036854775807,
+    "F7C618AF8E5D458AC5B29714A23DA142DF51FD59" : 9223372036854775807,
+    "704B817219E4CBC31AA92368EF54A4E2835A8C3D" : 9223372036854775807,
+    "BA5BC904DE865840E8180B6952FAEA9753C3F7A1" : 9223372036854775807,
+    "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1" : 9223372036854775807,
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B9FDD44B-5AF4-4975-8EBA-C8A1BD08EE80",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "85909B8C14DC51859FFE18436783EBA7F98F5475" : "HelloZowe\/",
+    "269ADF55FAAC04D68303BE30B6BD693E717155DE" : "HelloZowe\/.build\/checkouts\/CHTTPParser.git-5348291456210268902\/",
+    "D4199CF4A45E212E54A4CEE7E34326E0BC446862" : "HelloZowe\/.build\/checkouts\/HTTP.git--272820182718543615\/",
+    "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B" : "HelloZowe\/.build\/checkouts\/File.git--286790275320188543\/",
+    "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32" : "HelloZowe\/.build\/checkouts\/OpenSSL.git--3910106218684191058\/",
+    "4C40C860B4786749914FAE6F65C7DE13296994FB" : "HelloZowe\/.build\/checkouts\/HTTPFile.git-5168697468325196149\/",
+    "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F" : "HelloZowe\/.build\/checkouts\/IP.git--7754626322795884858\/",
+    "1308E24804F967D0BFAEC5294D55BE2BE7D89573" : "HelloZowe\/.build\/checkouts\/Reflection.git-8761266249456215936\/",
+    "900D198C3FB851E8F8E01B008846A319DD357A70" : "HelloZowe\/.build\/checkouts\/Venice.git--7213066144657614979\/",
+    "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F" : "HelloZowe\/.build\/checkouts\/TCP.git-6704329150880142359\/",
+    "A159381094DADFEA09ECCD534D4C3E31D0BC01B4" : "HelloZowe\/.build\/checkouts\/CYAJL.git-4542064459205343853\/",
+    "1E341D92E29B00380C7F10E3866962C9D13CE7F8" : "HelloZowe\/.build\/checkouts\/Axis.git--221026332297645589\/",
+    "F7C618AF8E5D458AC5B29714A23DA142DF51FD59" : "HelloZowe\/.build\/checkouts\/COpenSSL.git--1107325238714972182\/",
+    "704B817219E4CBC31AA92368EF54A4E2835A8C3D" : "HelloZowe\/.build\/checkouts\/POSIX.git-6838564179862367629\/",
+    "BA5BC904DE865840E8180B6952FAEA9753C3F7A1" : "HelloZowe\/.build\/checkouts\/HTTPServer.git--6777140694841574804\/",
+    "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1" : "HelloZowe\/.build\/checkouts\/CLibvenice.git--6158812894152849781\/",
+    "AFEF2E1BD93F36E85AC2D560F4E84962820B190D" : "HelloZowe\/.build\/checkouts\/CPOSIX.git-3088984595747919593\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloZowe",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HelloZowe.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/Reflection.git-8761266249456215936",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1308E24804F967D0BFAEC5294D55BE2BE7D89573"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/IP.git--7754626322795884858",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "15033DFF73D1DAA84A806DC9B6994613D8A2EB4F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/CLibvenice.git--6158812894152849781",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D5E3FB3EB19F2DAF5FDEE97CBD5C55259A1CEC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/Axis.git--221026332297645589",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E341D92E29B00380C7F10E3866962C9D13CE7F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/CHTTPParser.git-5348291456210268902",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "269ADF55FAAC04D68303BE30B6BD693E717155DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/HTTPFile.git-5168697468325196149",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C40C860B4786749914FAE6F65C7DE13296994FB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/POSIX.git-6838564179862367629",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "704B817219E4CBC31AA92368EF54A4E2835A8C3D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Ataluer\/HelloZowe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "85909B8C14DC51859FFE18436783EBA7F98F5475"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/Venice.git--7213066144657614979",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "900D198C3FB851E8F8E01B008846A319DD357A70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/TCP.git-6704329150880142359",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "908FC933CA96C901B9EB7FCA1AC9BEABA3C7F49F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/CYAJL.git-4542064459205343853",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A159381094DADFEA09ECCD534D4C3E31D0BC01B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/CPOSIX.git-3088984595747919593",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFEF2E1BD93F36E85AC2D560F4E84962820B190D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/HTTPServer.git--6777140694841574804",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA5BC904DE865840E8180B6952FAEA9753C3F7A1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/File.git--286790275320188543",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBA994F1F459E2B0EADFAFB04D634A14DC994C8B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/HTTP.git--272820182718543615",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4199CF4A45E212E54A4CEE7E34326E0BC446862"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/COpenSSL.git--1107325238714972182",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7C618AF8E5D458AC5B29714A23DA142DF51FD59"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/yanfeiyu\/Demo\/SwiftDemo\/HelloZowe\/.build\/repositories\/OpenSSL.git--3910106218684191058",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDDA6274B55B6BE33F0EAB0AC1F75687925D7F32"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+module COpenSSL {
+    umbrella header "/Users/yanfeiyu/Demo/SwiftDemo/HelloZowe/.build/checkouts/COpenSSL.git--1107325238714972182/Sources/include/COpenSSL.h"
+    export *
+}
