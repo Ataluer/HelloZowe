@@ -6,3 +6,6 @@ Web Server Based-on Zowe
 
 - Run
 > ~ .build/debug/HelloZown
+
+- Test
+> http://localhost:8080/hello
